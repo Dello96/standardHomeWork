@@ -2,6 +2,42 @@
   text-align: center;
 }
 
+.mains {
+  display: flex;
+  justify-content: center;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+}
+
+.inputs{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.origin {
+  display: flex;
+  justify-content: center;
+}
+
+.contents{
+  display: flex;
+  justify-content: center;
+}
+
+.resultsCont {
+  display: flex;
+  justify-content: center;
+}
+
+.results {
+  display: flex;
+  justify-content: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
